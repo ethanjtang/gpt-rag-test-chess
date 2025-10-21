@@ -1,0 +1,9 @@
+openai
+python-chess
+stockfish
+requests
+python-dotenv
+pandas
+jupyter
+ipywidgets
+matplotlib
