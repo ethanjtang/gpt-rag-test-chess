@@ -18,6 +18,4 @@ The script tests these OpenAI models in 6 different configurations (you can modi
 5. **gpt-4o-mini-legal** - Given all legal moves (alphabetically sorted, UCI format)
 6. **gpt-3.5-turbo-legal** - Given all legal moves (alphabetically sorted, UCI format)
 
-## License
-
-MIT
+You are free to steal this code - it is not mine in any sense of the world!
