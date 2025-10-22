@@ -624,7 +624,7 @@ def main():
     tester = LichessPuzzleTester(stockfish_path, openai_api_key)
 
     # Fetch puzzles
-    puzzles = tester.fetch_random_puzzles(count=100)
+    puzzles = tester.fetch_random_puzzles(count=1000)
 
     if not puzzles:
         print("No puzzles fetched. Please check your internet connection or API access.")
